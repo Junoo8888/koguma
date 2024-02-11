@@ -64,7 +64,7 @@
 
 - 소스코드
 
-  GitHub - https://github.com/ungyuun/koguma.git
+  GitHub - [](https://github.com/Junoo8888/koguma)
 
 - [프로젝트 보고서](https://drive.google.com/file/d/1G_ryKSDVcYQxO4aP78PcuSiRdwua2EPE/view?usp=drive_link)
 
@@ -80,7 +80,7 @@
 
 ``` 
 발표 담당 부분 타임라인
-기술 설명 : 00:24:00 ~ 00:27:50
+기술 설명 : 00:04:40 ~ 00:08:40
 ```
 
  
@@ -97,13 +97,10 @@
 
 #### 역할 및 담당 업무
 
-- 팀장 : 개발 일정 관리, 기술 지원
+- 데브옵스 관리자 및 문서총괄 : CI/CD, DB 서버 구축, 프로젝트 문서 담당
 
-- 담당 서브시스템 : 상품, 거래, 위치 기반 조회
+- 담당 서브시스템 : 모임, 그룹채팅
 
-- 그 외 담당 업무 : Object Storage 구성,  Oauth2 기반 소셜로그인 구현, 프로젝트 보고서 작성
-
-  
 
 ---
 
