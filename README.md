@@ -122,6 +122,7 @@
 
 
 ##### 2. 모임 CRUD 
+<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="location" width="20%" /> 
 ![image](https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084)
 
 
