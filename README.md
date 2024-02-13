@@ -64,7 +64,7 @@
 
 - 소스코드
 
-  GitHub - [](https://github.com/Junoo8888/koguma)
+  GitHub - [ ](https://github.com/Junoo8888/koguma)
 
 - [프로젝트 보고서](https://drive.google.com/file/d/1G_ryKSDVcYQxO4aP78PcuSiRdwua2EPE/view?usp=drive_link)
 
@@ -110,19 +110,7 @@
 
 
 
-##### 1. 메인화면
-
-> 위치기반 상품 리스트 조회. 위치와 게시물의 등록 위치를 거리 계산하여 근처에 있는 게시물만 보여지게함.
-
-
-
-<img src="https://github.com/ungyuun/koguma/assets/95204319/0d641295-1456-4d82-b854-f96e518368b5" alt="product_list" width="20%" />    <img src="https://github.com/ungyuun/koguma/assets/95204319/845733c4-39af-4075-93cc-9579b3cd6aed" alt="location_list" width="20%" />    <img src="https://github.com/ungyuun/koguma/assets/95204319/a4570152-a4f6-45c2-bc58-17ff8fca40ef" alt="location_change_alert" width="20%" />   
-
-
-
-
-
-##### 2. 내 동네 설정
+##### 1. 내 동네 설정
 
 >GeoLocation을 사용해 사용자의 위도 경도 가져와 reverseGeoCoder를 통해 행정동 추출.
 >
@@ -132,6 +120,9 @@
 
 <img src="https://github.com/ungyuun/koguma/assets/95204319/d6a0659f-bc21-49ee-bbfa-2d3273a089db" alt="location" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/f6d2fb8f-455f-4388-bfa5-dbe440009617" alt="location2" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/2ea94fec-489a-411b-b43e-4fb2487f8bf9" alt="location3" width="20%" />
 
+
+##### 2. 모임 CRUD 
+![image](https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084)
 
 
 
