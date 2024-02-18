@@ -123,7 +123,7 @@
 
 
 
-<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="club_create" width="18%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="club_list" width="20%" /> 
+<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="club_create" width="17%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="club_list" width="20%" /> 
 
 
 
@@ -135,23 +135,19 @@
 >GeoLocation을 활용한 내 위치, 지도 모임 검색
 >
 
-<img src="https://github.com/ungyuun/koguma/assets/141202143/49730d5b-9f84-4d1b-a674-be0edde6eb12" alt="club_geo" width="20%"/>   
+<img src="https://github.com/ungyuun/koguma/assets/141202143/49730d5b-9f84-4d1b-a674-be0edde6eb12" alt="club_geo" width="30%"/>   
 
 
 
 
 
-##### 4. 거래자 등록
+##### 4. 그룹채팅
 
->상품의 채팅내역중 회원을 선택하여 구매자로 등록한다.
->
->구매자로 등록된 회원은 본인이 구매한 상품이 아니면 내 구매 목록에서 구매내역을 삭제할수 있다.
+> Node.js 를 이용한 각 모임별 그룹채
 
 
 
-<img src="https://github.com/ungyuun/koguma/assets/95204319/2294c065-5823-4d5c-ad4c-4ce0940753bd" alt="sale_not_buyer" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/041b0e6e-f11d-4901-bcd6-9b2e750853c0" alt="sale_not_list" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/1de835d7-7a95-445d-a516-fa98e9321679" alt="sale_not_alert" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/bc352652-551f-4b01-b875-7b28d472eff5" alt="sale_not_add" width="20%" />
-
-
+<img src="https://github.com/ungyuun/koguma/assets/141202143/565e1113-76cd-416b-a9aa-7e305ceb292b" alt="club_chat" width="20%" />  
 
 ##### 5. 거래 후기 
 
