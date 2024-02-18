@@ -119,26 +119,23 @@
 <img src="https://github.com/ungyuun/koguma/assets/95204319/d6a0659f-bc21-49ee-bbfa-2d3273a089db" alt="location" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/f6d2fb8f-455f-4388-bfa5-dbe440009617" alt="location2" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/2ea94fec-489a-411b-b43e-4fb2487f8bf9" alt="location3" width="20%" />
 
 
-##### 2. 모임 CRUD 
+##### 2. 모임 CRUD
 
 
 
-<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="location" width="18%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="location" width="20%" /> 
+<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="club_create" width="18%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="club_list" width="20%" /> 
 
 
 
 
 
 
-##### 3. 상품 가격제안
+##### 3. 내 위치기반 모임 검색
 
->상품 상세조회에서 기존의 가격보다 낮게 가격제안 가능
+>GeoLocation을 활용한 내 위치, 지도 모임 검색
 >
->판매자는 상품 조회에서 가격제안 리스트를 확인 가능
 
-
-
-<img src="https://github.com/ungyuun/koguma/assets/95204319/e0769402-6fe8-4fd6-81b2-626bf909c1ed" alt="product_detail" width="20%"/>   <img src="https://github.com/ungyuun/koguma/assets/95204319/b0f504a9-bb70-40b7-85de-13352f1584a4" alt="suggest_price" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/027884f0-82a1-4b87-8dfc-de338126716f" alt="suggest_price_alert" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/3523da28-8bb7-48b3-85a0-5f2c32eca6f3" alt="suggest_price_list" width="20%" />
+<img src="https://github.com/ungyuun/koguma/assets/141202143/49730d5b-9f84-4d1b-a674-be0edde6eb12" alt="club_geo" width="20%"/>   
 
 
 
