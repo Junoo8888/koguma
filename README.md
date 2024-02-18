@@ -123,7 +123,7 @@
 
 
 
-<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="location" width="10%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="location" width="20%" /> 
+<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="location" width="18%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="location" width="20%" /> 
 
 
 
