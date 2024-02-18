@@ -123,7 +123,7 @@
 
 
 
-<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="club_create" width="17%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="club_list" width="20%" /> 
+<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="club_create" width="19%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="club_list" width="20%" /> 
 
 
 
@@ -135,7 +135,7 @@
 >GeoLocation을 활용한 내 위치, 지도 모임 검색
 >
 
-<img src="https://github.com/ungyuun/koguma/assets/141202143/49730d5b-9f84-4d1b-a674-be0edde6eb12" alt="club_geo" width="30%"/>   
+<img src="https://github.com/ungyuun/koguma/assets/141202143/9bad1c72-1acb-4e4b-bfe5-a9a030ae0f8a" alt="club_geo1" width="20%"/> <img src="https://github.com/ungyuun/koguma/assets/141202143/a81c7607-77b8-4f98-bb09-1a202e6d5511" alt="club_geo2" width="20%"/>   
 
 
 
