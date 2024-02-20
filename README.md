@@ -119,13 +119,15 @@
 <img src="https://github.com/ungyuun/koguma/assets/95204319/d6a0659f-bc21-49ee-bbfa-2d3273a089db" alt="location" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/f6d2fb8f-455f-4388-bfa5-dbe440009617" alt="location2" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/2ea94fec-489a-411b-b43e-4fb2487f8bf9" alt="location3" width="20%" />
 
 
-##### 2. 모임 CRUD
+##### 2. 모임 
+
+> 모임 서비스는 모임만을 위한 일정 및 게시판, 그룹 채팅을 이용할 수 있다. 
+>
+> 모임 카테고리는 고정되어있으며, 게시판 및 일정은 모임 별 상이함.
 
 
 
-<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="club_create" width="19%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="club_list" width="20%" /> 
-
-
+<img src="https://github.com/Junoo8888/Algorithm/assets/141202143/577b73de-055e-44ea-a3bd-991a7e872084" alt="club_create" width="18.5%" />  <img src="https://github.com/Junoo8888/Algorithm/assets/141202143/d591e16a-bedf-4cb6-b12d-f6c92d532816" alt="club_list" width="20%" /> 
 
 
 
@@ -143,11 +145,14 @@
 
 ##### 4. 그룹채팅
 
-> Node.js 를 이용한 각 모임별 그룹채
+> Node.js 를 이용한 각 모임별 그룹채팅
+>
+> 모임에 가입한 사람만 해당 모임에 채팅방에서 채팅이 가능하다. 
 
 
 
 <img src="https://github.com/ungyuun/koguma/assets/141202143/565e1113-76cd-416b-a9aa-7e305ceb292b" alt="club_chat" width="20%" />  
+
 
 ##### 5. 모임별 게시판
 
