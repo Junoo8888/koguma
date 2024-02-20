@@ -149,41 +149,15 @@
 
 <img src="https://github.com/ungyuun/koguma/assets/141202143/565e1113-76cd-416b-a9aa-7e305ceb292b" alt="club_chat" width="20%" />  
 
-##### 5. 거래 후기 
+##### 5. 모임별 게시판
 
-> 판매자와 구매자간 리뷰를 통한 평가가 가능하다. 
+> 각 모임만 해당 모임 만을 위한 게시판을 사용할 수 있다. 
 >
-> 긍정적 후기의 한마디 1개당 0.5의 매너온도 증가. 부정적 후기의 한마디는 매너온도 감소.
+> 카테고리는 모임별로 다르게 추가/삭제가 가능하다. 
 
 
 
-<img src="https://github.com/ungyuun/koguma/assets/95204319/df501663-8b4a-49ba-8222-95d830b1f949" alt="good_review" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/bd7b0cf2-e913-482b-8663-48ad06b2bd4d" alt="bad_review" width="20%" />  <img src="https://github.com/ungyuun/koguma/assets/95204319/d123a710-4bc7-479f-ba1d-659744cc8976" alt="review_add_alert" width="20%" />  <img src="https://github.com/ungyuun/koguma/assets/95204319/2e9b8162-f566-4cda-af73-be63360d4d86" alt="add_review" width="20%" />
-
-
-
-##### 6. 상품 끌어올리기
-
-> 상품 리스트 하단에 있는 제품을 상단으로 끌어올리기. 24시간마다 한번씩 가능.
-
-
-
-<img src="https://github.com/ungyuun/koguma/assets/95204319/3ae81fc8-446b-422a-8b47-0fb9fe4ff4be" alt="before_raise" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/26a0b92b-0373-41ba-9db5-982700812846" alt="upraise_alert" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/faf80524-d900-4984-85a5-74e444f3da0b" alt="after_raise" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/5d54c339-cd12-4a45-8c58-e6a5590c0c6e" alt="raise_alert" width="20%" />
-
-
-
-
-
-##### 7. 상품 숨기기
-
->상품 리스트에서 조회가 불가능하게 변경함.
-
-
-
-<img src="https://github.com/ungyuun/koguma/assets/95204319/8a569102-6347-4fbf-b673-7bfbd1eaf982" alt="add_hide" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/b3afbb58-7171-4d96-bce8-cadefe8509f8" alt="hide_alert" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/43bf3eb9-f89f-4b94-8686-e4d4a97b53d9" alt="hide_list" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/95204319/3f78a974-bcd0-4a46-bea9-748be76f2b47" alt="delete_hide" width="20%" />   
-
-
-
----
+<img src="https://github.com/ungyuun/koguma/assets/141202143/d92b3f21-ad8f-4feb-b00c-6acc4c47b856" alt="good_review" width="20%" />   <img src="https://github.com/ungyuun/koguma/assets/141202143/52fa2a77-27ff-4756-8407-51105ff923c5" alt="bad_review" width="20%" />  <img src="https://github.com/ungyuun/koguma/assets/141202143/a5ec1b87-a8a4-443c-8b74-9ae0a2f99fc6" alt="bad_review" width="20%" />  
 
 
 
